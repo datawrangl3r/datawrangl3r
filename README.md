@@ -25,21 +25,30 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCnDcz60OVjQ8WC9bWe8D5sw" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-  
 
+### Glad to see you here! 
 
+Here's a list of things that I work on:
 
-### Glad to see you here!  
-Developer with 6+ Years of Experience in building data products | Architecting/Automating/Optimizing Mission-Critical Deployments | HA setups for cloud & BI technologies | Scaling & Securing the cloud Infrastructure | Blogging evangelist | Author at datawrangler.in  
+* Building data products and platforms
+
+* Architecting/Automating/Optimizing Mission-Critical Deployments 
+
+* HA setups for cloud & BI technologies 
+
+* Scaling & Securing the cloud Infrastructure
+
+* Blogging evangelist 
+
+* Author at <a href="https://datawrangler.in/">datawrangler.in</a>, <a href="https://stackabuse.com/author/datawrangl3r">stackabuse.com</a>
   
 
 <br/>  
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on improving [Pg2Mongo](https://github.com/datawrangl3r/pg2mongo)  
+- 🔭 I’m currently working on improving my pet project: [Pg2Mongo](https://github.com/datawrangl3r/pg2mongo)  
   
 
 - 🌱 I’m currently learning Kubernetes and DApps  
@@ -49,16 +58,6 @@ Developer with 6+ Years of Experience in building data products | Architecting/A
   
 
 - ⚡ Fun fact: Developer by day 🌅, Blogger by night 🌙  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://camo.githubusercontent.com/080e64d4588d15cdcc72b806c340f758d0240d371568f2d00af188c53c18cb65/687474703a2f2f332e62702e626c6f6773706f742e636f6d2f2d55543353483377447559452f57554c4e636f456b4334492f41414141414141414863632f4b61476f67714149767577507539555030366a69456c32553339576a3756583241434b34424741595943772f773830302f4c6f676f6d616b725f376e494e4c432e706e67" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 

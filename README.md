@@ -105,7 +105,12 @@ Developer with 6+ Years of Experience in building data products | Architecting/A
 
 
 ### Recent Blogs  
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+- [Redis Queues & Redis Queue Dashboards for Python API Development](https://stackabuse.com/redis-queues-redis-queue-dashboards)
+- [Guide to Elasticdump - Moving and Saving Elasticsearch Indices](https://stackabuse.com/guide-to-elasticdump-moving-and-saving-elasticsearch-indices)
+- [Checking Vulnerabilities in Your Python Code with Bandit](https://stackabuse.com/checking-vulnerabilities-in-your-python-code-with-bandit)
+- [How to Install Pip on Windows](https://stackabuse.com/how-to-install-pip-on-windows)
+- [Guide to Understanding chmod](https://stackabuse.com/guide-to-understanding-chmod)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  

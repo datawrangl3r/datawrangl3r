@@ -105,11 +105,11 @@ Here's a list of things that I work on:
 
 ### Recent Blogs  
 <!-- BLOG-POST-LIST:START -->
+- [Abstract Factory Design Pattern in Python](https://stackabuse.com/abstract-factory-design-pattern-in-python/)
 - [Observer Design Pattern in Python](https://stackabuse.com/observer-design-pattern-in-python/)
 - [Python: Remove the Prefix and Suffix From a String](https://stackabuse.com/python-remove-the-prefix-and-suffix-from-a-string/)
 - [Guide to Python's strip() Method](https://stackabuse.com/guide-to-pythons-strip-method/)
 - [Redis Queues & Redis Queue Dashboards for Python API Development](https://stackabuse.com/redis-queues-redis-queue-dashboards/)
-- [Guide to Elasticdump - Moving and Saving Elasticsearch Indices](https://stackabuse.com/guide-to-elasticdump-moving-and-saving-elasticsearch-indices/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
